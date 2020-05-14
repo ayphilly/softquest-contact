@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&display=swap');
+#portfolio {
+    margin-bottom: 200px;
+    margin-top: 20px;
+}
+
+.portfolio-title h3 {
+   
+    color: rgb(14, 14, 14);    
+    font-size: 40px;  
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+#port {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    max-width: 100%;
+}
+.port img {
+    width: 300px;
+}
+#owlll {
+    background-color: blueviolet;
+}
+
+.img {
+    width:500px
+} 
